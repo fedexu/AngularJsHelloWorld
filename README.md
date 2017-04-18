@@ -5,9 +5,7 @@ Useful link to better understand AngularJS
 
 Overview
 https://docs.angularjs.org/guide/concepts
-
-Tutorial 
-https://docs.angularjs.org/tutorial/
+Just read the overview to understand the simple component of Angular, skip the Tutorial.
 
 Project Structure
 http://briantford.com/blog/huuuuuge-angular-apps
